@@ -1,3 +1,6 @@
+[Settings]
+  ID = "gatsby-netlify-markdown-tutorial"
+  REPOSITORY_URL = "github.com/ken0x0a/gatsby-netlify-cms-test"
 [build]
   publish = "public"
   command = "npm run build"
